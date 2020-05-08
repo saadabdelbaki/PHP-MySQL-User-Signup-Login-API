@@ -1,4 +1,5 @@
 # PHP MySQL User Signup Login API
+
 api
 ├─── config/
 ├────── database.php – file used for connecting to the database.
